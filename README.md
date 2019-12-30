@@ -4,11 +4,11 @@
 **ItC Crawler** is a python crawler built with `lxml` module which crawls the announcements from the NTU CSIE department.
 
 ## Team members
-| Student Name | Student ID |
+| Student Name | Student ID | Contribution |
 | --- | --- |
-| 謝文傑 | B08902143 |
-| 陳若婕 | B08902009 |
-| 王風意 | B08902119 |
+| 謝文傑 | B08902143 | main coder |
+| 陳若婕 | B08902009 | coder |
+| 王風意 | B08902119 | code reviewer |
 
 ## Usage
 
