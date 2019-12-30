@@ -12,6 +12,6 @@ if __name__ == '__main__':
 
     with open(args.output, 'w') as f:
         for content in contents:
-            output = (datetime.strftime(content[0], "%Y-%m-%d"), content[1].replace('"', ' '), content[2].replace('"', ' '))
+            output = (datetime.strftime(content[0], "%Y-%m-%d"), content[1].replace('"', '""'), content[2].replace('"', '""'))
 
-            f.write(f'{output[0]}, "{output[1]}", "{output[2]}"\n')
+            f.write(f'{output[0]},"{output[1]}","{output[2]}"\n')
