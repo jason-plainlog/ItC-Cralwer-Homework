@@ -5,7 +5,7 @@
 
 ## Team members
 | Student Name | Student ID | Contribution |
-| --- | --- |
+| --- | --- | --- |
 | 謝文傑 | B08902143 | main coder |
 | 陳若婕 | B08902009 | coder |
 | 王風意 | B08902119 | code reviewer |
